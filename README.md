@@ -11,4 +11,5 @@ pathshala_UI
 <li>right click on project -> build path -> configure build path -> libraries </li>
 <li>select JRE and press delete 10.Add library -> JRE system library -> workspace default should be checked finish!</li>
 <li>Whenever commiting and pushing changes ensure not to push .classpath file!!</li>
+<li>Made a change in README</li>
 <ol>
